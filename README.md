@@ -6,3 +6,6 @@ Shradha Khapra
 
 # Student
 Delta Student
+
+# Principal
+Ram Varma
